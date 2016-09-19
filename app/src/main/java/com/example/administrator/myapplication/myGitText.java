@@ -20,4 +20,8 @@ public class myGitText {
     {
         z++;
     }
+    public void del1(int z)
+    {
+        z++;
+    }
 }
