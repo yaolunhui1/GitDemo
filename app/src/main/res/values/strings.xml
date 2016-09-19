@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn2">关闭Acitivity</string>
+    <string name="btn4">关闭Acitivity并返回OK</string>
+    <string name="scr1">这是LinearLayout界面</string>
+    <string name="scr2">这是RelativeLayout界面</string>
+    <string name="btn5">打开servier服务并传递数据</string>
+    <string name="btn6">关闭servier服务</string>
+    <string name="btn7">绑定servier服务并传递数据</string>
+    <string name="btn8">解除绑定servier服务</string>
+    <string name="btn9">发送BroadcastReceiver</string>
+    <string name="btn10">注册BroadcastReceiver</string>
+    <string name="btnadd">添加数据</string>
+    <string name="btndel">删除数据</string>
+    <string name="txtName">名字</string>
+    <string name="txtAge">年龄</string>
+    <string name="txtSex">性别</string>
+    <string name="txtClass">班级</string>
+    <string name="btnsearch">查询数据</string>
+</resources>
