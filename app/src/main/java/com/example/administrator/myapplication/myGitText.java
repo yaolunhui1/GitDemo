@@ -12,4 +12,8 @@ public class myGitText {
     {
         i++;
     }
+    public void del(int i)
+    {
+        i--;
+    }
 }
