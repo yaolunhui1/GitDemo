@@ -16,4 +16,8 @@ public class myGitText {
     {
         i--;
     }
+    public void init(int z)
+    {
+        z++;
+    }
 }
