@@ -24,4 +24,8 @@ public class myGitText {
     {
         z++;
     }
+     public void del2(int z)
+    {
+        z++;
+    }
 }
