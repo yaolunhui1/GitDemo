@@ -8,4 +8,8 @@ public class myGitTest {
     {
         int z=i+j;
     }
+    public void del(int z,int mz)
+    {
+        int mm=z+mz;
+    }
 }
