@@ -37,7 +37,7 @@ public class myGitText {
         zz++;
 
     }
-publiv void del7(int zz){zz++;}
+public void del7(int zz){zz++;}
 public void del5(int zz){zz++;}
     public void del6(int zz)
     {
