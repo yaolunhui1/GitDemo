@@ -38,4 +38,8 @@ public class myGitText {
 
     }
 public void del5(int zz){zz++;}
+    public void del6(int zz)
+    {
+        zz++;
+    }
 }
