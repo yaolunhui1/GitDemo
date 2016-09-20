@@ -43,4 +43,8 @@ public void del5(int zz){zz++;}
     {
         zz++;
     }
+    public void del8(int zz)
+    {
+        zz++;
+    }
 }
