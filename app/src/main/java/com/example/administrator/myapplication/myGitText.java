@@ -37,4 +37,5 @@ public class myGitText {
         zz++;
 
     }
+public void del5(int zz){zz++;}
 }
